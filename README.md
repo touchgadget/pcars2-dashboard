@@ -1,5 +1,4 @@
-# Project Cars 2 Dashboard
-
+# Project Cars 2 and F1 2020 Dashboard
 
 ![8x8 LED Dashboard showing gear and RPM](./images/dashboard.gif)
 
@@ -36,3 +35,10 @@ Like all the Unicorn examples, this program must be run as root!
 ```
 sudo python3 pcars2show.py
 ```
+or
+```
+sudo python3 f12020show.py
+```
+
+
+
